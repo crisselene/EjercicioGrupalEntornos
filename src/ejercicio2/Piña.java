@@ -1,9 +1,10 @@
 package ejercicio2;
 
-public class Pi�a {
+public class Piña {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// Yo soy Piña
 
 	}
 
